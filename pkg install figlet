@@ -1,0 +1,9 @@
+Ign:1 https://dl.bintray.com/termux/termux-packages-24 stable InRelease
+Ign:2 https://dl.bintray.com/grimler/game-packages-24 games InRelease
+Ign:3 https://dl.bintray.com/grimler/science-packages-24 science InRelease
+Get:4 https://dl.bintray.com/termux/termux-packages-24 stable Release [6061 B]
+Hit:4 https://dl.bintray.com/termux/termux-packages-24 stable Release
+Get:6 https://dl.bintray.com/grimler/game-packages-24 games Release [5344 B]
+Hit:6 https://dl.bintray.com/grimler/game-packages-24 games Release
+Get:8 https://dl.bintray.com/grimler/science-packages-24 science Release [5348 B]
+Hit:8 https://dl.bintray.com/grimler/science-packages-24 science Release
